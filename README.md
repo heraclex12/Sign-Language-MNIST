@@ -3,4 +3,4 @@ Implement Logistic Regression image classification using scikit-learn and use Hi
 
 This project is my class assignment, so I use Vietnamese to describe the code lines.
 
-I built the used Deep learning model and it archieved 89% accuracy score in test set. (high score in this data)
+I built the unused Deep learning model and it archieved 89% accuracy score in test set. (high score in this data)
